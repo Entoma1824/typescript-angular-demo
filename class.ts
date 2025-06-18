@@ -1,6 +1,6 @@
 // import { Login, User } from 'interfaces';
 
-import * as UserLogin from 'interfaces'
+import * as UserLogin from './interfaces'
 
 interface Adress {
     street: string;
